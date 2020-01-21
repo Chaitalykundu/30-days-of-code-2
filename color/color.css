@@ -1,0 +1,18 @@
+#para1 {
+	color: rgb(300,0,0);	/* 3 color combination */
+}
+
+.para2 {
+	color: #ab0003;  /*hex value (in hex value 0 is min and f is max) */
+	color: #ab0003;
+}
+
+p {
+	color: green;		/* normal color */
+}
+
+/* combinations */
+
+ .para3 {
+	color: rgb(30,250,150);
+ }
