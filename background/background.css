@@ -1,1 +1,5 @@
-
+body {
+	background-size:cover; 
+	background-color:pink;
+	background-image: url(../image/flower.jpg);
+}
