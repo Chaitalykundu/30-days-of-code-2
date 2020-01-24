@@ -1,1 +1,25 @@
+p {
+	text-align: center;
+	text-transform: capitalize;  /* to make uppercase or lowercase */
+	text-indent: 9px;
+	letter-spacing: 2px;
+	line-height: 2;
+	direction: 1 tr;
+	word-spacing: 2;
+}
 
+h1 {
+	text-align: center;
+}
+
+#para1 {
+	text-align: center;
+	text-transform: uppercase;
+	color: green;
+}
+
+.para2 {
+	text-align: center;
+	text-transform: lowercase;
+	color: red;"
+}
