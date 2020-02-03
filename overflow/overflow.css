@@ -1,1 +1,30 @@
+.overflow1 {
+	width: 300px;
+	height:90px;
+	background-color:pink;
+	overflow: visible; /* show whole content */
+	margin-left:30px;
+}
+.overflow2 {
+	width: 300px;
+	height:90px;
+	background-color:green;
+	overflow: hidden;	/* hide the content what is not situated in the length of the height */
+	margin-left:30px;
+}
 
+.overflow3 {
+	width: 300px;
+	height:90px;
+	background-color:pink;
+	overflow: scroll; /* show both vertical and horizontal scrollbar */
+	margin-left:30px;
+}
+
+.overflow4 {
+	width: 300px;
+	height:90px;
+	background-color:green;
+	overflow: auto;	/* show vertical scrollbar only */
+	margin-left:30px;
+}
