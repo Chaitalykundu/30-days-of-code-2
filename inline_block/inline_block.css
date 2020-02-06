@@ -1,1 +1,7 @@
-
+.inline_block {
+	width:150px;
+	height:100px;
+	margin:10px;
+	border: 3px solid red;
+	display: inline-block;
+}
