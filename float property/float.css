@@ -1,0 +1,15 @@
+.float{
+	width: 200px;
+	height: 100px;
+	float: right;
+}
+.float2{
+	width: 200px;
+	height: 100px;
+	float: left;
+}
+.float3{
+	width: 200px;
+	height: 100px;
+	float: clear;  /* Clear is used for the default side */
+}
